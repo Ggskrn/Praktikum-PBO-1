@@ -1,3 +1,6 @@
+jetbrains://idea/navigate/reference?project=tp1PBO_Gagas&fqn=Mahasiswa
+C:\Users\USER\IdeaProjects\tp1PBO_Gagas\src\Mahasiswa.java
+        
 public class Mahasiswa {
 
         void membaca() {
